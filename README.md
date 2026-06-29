@@ -44,14 +44,7 @@ I combine the speed of **AI-assisted development** with **rock-solid backend inf
 
 Your vision deserves more than just a prototype. Let's build an application your users will love.
 
-<p align="center">
-  <a href="https://upwork.com" target="_blank">
-    <img src="https://shields.io" alt="Hire Me on Upwork" height="40">
-  </a>
-  <a href="https://calendly.com" target="_blank">
-    <img src="https://shields.io" alt="Book a Free Call" height="40">
-  </a>
-</p>
+
 
 * 💼 **Upwork Profile:** [View Profile & Hire](https://upwork.com)
 * 📅 **Strategy Call:** [Schedule a free 30-minute call on Calendly](https://calendly.com) to map out your tech stack!
