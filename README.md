@@ -2,7 +2,7 @@
 
 ### Full-Stack SaaS Developer & AI Automation Engineer
 
-I combine the speed of **AI-assisted development** with **rock-solid backend infrastructure** to turn your vision into scalable, production-ready SaaS applications. With a background in high-stakes hospitality, I bring extreme precision, discipline, and premium communication to every line of code.
+I work two ways: building new products fast in Lovable and Supabase, or going straight into an existing codebase with Claude Code and Codex to debug, secure, or optimize what’s already there.
 
 ---
 
