@@ -30,7 +30,7 @@ I work two ways: building new products fast in Lovable and Supabase, or going st
 * **Backend & DB:** Supabase development, PostgreSQL, Row Level Security (RLS)
 * **Frontend & Logic:** TypeScript, modern dashboards, responsive UI/UX
 * **Integrations:** Stripe subscriptions, custom CRMs, client portals, internal automation
-* **Hands-On Development: Claude Code, Codex (debugging, performance, security work in existing repos)
+* Hands-On Development: Claude Code, Codex (debugging, performance, security work in existing repos)
 
 ---
 
