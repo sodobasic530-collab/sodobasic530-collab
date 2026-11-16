@@ -36,7 +36,7 @@ I work two ways: building new products fast in Lovable and Supabase, or going st
 
 ### 📈 Proven Impact
 
-* ⏱️ **Speed:** Delivered fully functional MVPs in as little as 30 days.
+* ⏱️ **Speed:** Delivered fully functional MVPs in as little as 20 days.
 * 💰 **ROI:** Saved a startup $24k/year by auditing and replacing expensive software.
 
 ---
